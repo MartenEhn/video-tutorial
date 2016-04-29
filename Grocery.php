@@ -9,8 +9,8 @@ echo '	<style>
 echo '</head>
 echo '<body>'
 echo '<br>';
-echo '<div>';
-
+echo '<div class="thecontent">';
+		Hello World! This is a complete useless Grocery.
 	
 echo '</div>';
 echo '</body>';
