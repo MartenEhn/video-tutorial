@@ -10,7 +10,8 @@ echo '</head>
 echo '<body>'
 echo '<br>';
 echo '<div class="thecontent">';
-		Hello World! This is a complete useless Grocery.
+		Hello World! This is a complete useless Grocery.	
+		However, tested in a branch.
 
 echo '</div>';
 echo '</body>';
