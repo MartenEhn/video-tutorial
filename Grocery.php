@@ -14,7 +14,7 @@ echo '<div class="thecontent">';
 		However, tested in a branch.		
 echo '</div>';
 echo '<module-one>';
-echo 	'<div>Detta är feature1</div>';
+echo 	'<div>Detta är feature1!</div>';
 echo '</module-one>';
 
 
