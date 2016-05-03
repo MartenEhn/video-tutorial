@@ -10,7 +10,7 @@ echo '</head>
 echo '<body>'
 echo '<br>';
 echo '<div class="thecontent">';
-		Hello World! This is a complete useless Grocery.
+		Hello World! This is the Tester Grocery.
 
 echo '</div>';
 echo '</body>';
