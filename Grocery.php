@@ -10,7 +10,7 @@ echo '</head>
 echo '<body>'
 echo '<br>';
 echo '<div class="thecontent">';
-		Hello World! This is the Tester Grocery.
+		Hello World! This is the Real Grocery.
 echo '</div>';
 echo '<module-one>';
 echo 	'<div>Detta är feature1!</div>';
